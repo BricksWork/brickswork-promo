@@ -20,6 +20,11 @@ And another example of optimization of the development process: invite beginner 
 
 _Perhaps it is also worth thinking about a development tool that will be the most secure and reliable. Which could automatically adjust the direction of work through the rules?_
 
+### Still don't understand why beginner developers don't put in the time?
+Yes, this is a very popular question and usually with one answer - because they haven't learned yet.
+
+_Will to have simple and strict rules for writing code speed up the development? Maybe even a tool which generates solutions for standard patterns?_
+
 ## But what does a simple reliable framework mean?
 I propose to describe the following properties:
 - _minimum libraries_, which will be considered as easy to use as possible; the functionality of the libraries is reduced to the necessary minimum, which is suitable for any project; the framework depends on the project, not the project on the framework;
